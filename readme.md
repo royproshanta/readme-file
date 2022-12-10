@@ -9,19 +9,19 @@ Table of Contents
 * [Roadmap](#roadmap)
 * [Deployment](#deployment)
 * [Acknowledgements](#acknowledgements)
-* [API Reference](#apireference)
-* [Line Size](#linesize)
-    * [Line Height 1](#lineheight1)
-    * [Line Height 2](#lineheight2)
-    * [Line Height 3](#lineheight3)
-    * [Line Height 4](#lineheight4)
-    * [Line Height 5](#lineheight5)
+* [API Reference](#APIReference)
+* [Line Size](#lineSize)
+    * [Line Height 1](#lineHeight1)
+    * [Line Height 2](#lineHeight2)
+    * [Line Height 3](#lineHeight3)
+    * [Line Height 4](#lineHeight4)
+    * [Line Height 5](#lineHeight5)
 * [Authors](#authors)
     * [Documentation](#documentation)
 * [Contributing](#contributing)
 * [Installation](#installation)
 * [Optimization](#optimization)
-* [Usage/examples](#usage/example)
+* [Usage/Examples](#usage/Examples)
 
 # Project Title 
 
@@ -117,11 +117,11 @@ How to add a quota
 Takes two numbers and returns the sum.
 
 
-# Line Height 1
-## Line Heightm 2
-### Line Height 3
-#### Line Height 4
-##### Line Height 5
+# Line Height
+## Line Height
+### Line Height
+#### Line Height
+##### Line Height
 ## Authors
 
 - [@octokatherine](https://www.github.com/octokatherine)
