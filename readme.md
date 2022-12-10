@@ -20,8 +20,8 @@ Table of Contents
     * [Documentation](#documentation)
 * [Contributing](#contributing)
 * [Installation](#installation)
-* [Optimization](#optimization)
-* [Usage/Examples](#usage/Examples)
+* [Optimizations](#optimizations)
+* [Usage](#usage)
 
 # Project Title 
 
@@ -152,7 +152,7 @@ Install my-project with npm
 What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
 
 
-## Usage/Examples
+## Usage
 
 ```javascript
 import Component from 'my-project'
