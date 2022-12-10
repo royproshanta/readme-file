@@ -9,7 +9,7 @@ Table of Contents
 * [Roadmap](#roadmap)
 * [Deployment](#deployment)
 * [Acknowledgements](#acknowledgements)
-* [API Reference](#APIReference)
+* [API Reference](#aPIReference)
 * [Line Size](#lineSize)
     * [Line Height 1](#lineHeight1)
     * [Line Height 2](#lineHeight2)
