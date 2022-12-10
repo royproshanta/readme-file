@@ -10,7 +10,7 @@ Table of Contents
 * [Deployment](#deployment)
 * [Acknowledgements](#acknowledgements)
 * [API Reference](#aPI-reference)
-* [Line Size](#lineSize)
+* [Line Size](#line-size)
     * [Line Height 1](#line-height-1)
     * [Line Height 2](#line-height-2)
     * [Line Height 3](#line-height-3)
